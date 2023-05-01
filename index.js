@@ -1,1 +1,2 @@
-const language = "Javascript";
+const language = "Java";
+const age = 0;
